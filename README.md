@@ -14,6 +14,9 @@ I’m a Full Stack Developer at Infosys specializing in the MEAN stack, with han
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tarun-gurugubelli&icon=0&color=13)](https://visitcount.itsvg.in)
