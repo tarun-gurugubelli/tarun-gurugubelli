@@ -12,12 +12,6 @@ I’m a Full Stack Developer at Infosys specializing in the MEAN stack, with han
 ![](https://nirzak-streak-stats.vercel.app/?user=tarun-gurugubelli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-gurugubelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tarun-gurugubelli&icon=0&color=13)](https://visitcount.itsvg.in)
 
