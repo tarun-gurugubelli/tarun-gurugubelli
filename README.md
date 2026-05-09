@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-gurugubelli)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarun.gurugubelli)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarungurugubelli@outlook.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=tarun-gurugubelli&icon=0&color=13)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=tarun-gurugubelli&style=flat&color=blue)](https://github.com/tarun-gurugubelli)
 
 </div>
 
@@ -75,10 +75,10 @@ I'm a Full Stack Developer at **Infosys** specializing in the **MEAN stack** —
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarun-gurugubelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tarun-gurugubelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tarun-gurugubelli&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tarun-gurugubelli&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-gurugubelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tarun-gurugubelli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
